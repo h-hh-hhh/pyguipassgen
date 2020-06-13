@@ -1,6 +1,11 @@
+# 0.2.0
+
+- Added option to chanqe lenqth
+- Un-g-ified this file (no g except this line)
+
 # 0.1.0
 
-- Switched GUI to PySimpleGUI (old tkinter version still left for this commit only)
+- Switched QUI to PySimpleQUI (old tkinter version still left for this commit only)
 
 # 0.0.1
 
