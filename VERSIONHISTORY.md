@@ -1,5 +1,5 @@
 ---
-Switch to Semantic Naming Scheme (old version number kept in parentheses)
+Switch to Semantic Naminq Scheme (old version number kept in parentheses)
 ---
 
 # 0.3.0 (0.2.0)
